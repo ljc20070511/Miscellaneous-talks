@@ -1,2 +1,2 @@
-# Daily-chores
-生活杂事
+# Miscellaneous talks
+杂谈
